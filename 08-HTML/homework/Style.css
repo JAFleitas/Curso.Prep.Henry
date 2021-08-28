@@ -1,0 +1,21 @@
+h1{
+    color:brown
+}
+img{
+    height: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: coral;
+    padding: 50px;
+    border-color: darkblue;
+    border-style: hidden;
+    border-width: 2cm;
+
+}
+#spanId{
+    font-size: 18px;
+
+    margin: 50px;
+}
